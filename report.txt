@@ -1,0 +1,16 @@
+Daily Report – 05/03/2021 Trần Tiến Thành
+■ Today plan: 
+- Tìm hiểu về Git & GitHub
+■ Actual:
+- Biết sử dụng cơ bản về Git & GitHub
+- Biết sử dụng:
+	+ git init
+	+ git clone
+	+ git status
+	+ git add
+	+ git commit
+	+ git push, git pull
+■ Tomorrow Plan:
+- Tiếp tục tìm hiểu thêm 
+■ Issues:
+-
